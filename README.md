@@ -20,4 +20,4 @@ After installing all packages, type `python server.py` to start the application.
 
 Navigate to `http://localhost:8080` or the link given by the console.
 
-My demo video link: https://youtu.be/jfiDXDVw7nI
+My demo video link: https://youtu.be/SZSZsklvomc
